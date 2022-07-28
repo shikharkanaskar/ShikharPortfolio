@@ -5,5 +5,14 @@
     <link>https://shikharkanaskar.com/</link>
     <description>Recent content on Portfolio Website</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://shikharkanaskar.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://shikharkanaskar.com/about/</link>
+      <pubDate>Fri, 29 Jul 2022 03:08:28 +0530</pubDate>
+      
+      <guid>https://shikharkanaskar.com/about/</guid>
+      <description>Hii, This is Shikar Kanaskar!</description>
+    </item>
+    
   </channel>
 </rss>
