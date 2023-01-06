@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-#googleAnalytics: UA-123-45c
+#googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -118,11 +118,6 @@ menu:
       name: about
       url: /about/
       weight: 10
-    - identifier: resume
-      name: Resume
-      url: /resume/
-      weight: 10
-
     - identifier: tags
       name: tags
       url: /tags/
