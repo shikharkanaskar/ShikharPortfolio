@@ -1,3 +1,4 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/shikharkanaskar/ShikharPaperMod.git
+	branch = v2.0
