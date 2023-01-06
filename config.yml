@@ -1,5 +1,5 @@
 baseURL: "https://shikharkanaskar.com/"
-title: Portfolio Website
+title: Shikhar Kanaskar
 paginate: 5
 theme: PaperMod
 
@@ -16,10 +16,10 @@ minify:
 
 params:
   #env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Portfolio Website
+  title: Apurva Khatri
   description: "Shikhar Kanaskar Portfolio Website"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Shikhar Kanaskar
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -77,12 +77,10 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/shikharkanaskar/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/shikharkanaskar"
 
   analytics:
     google:
