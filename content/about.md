@@ -2,8 +2,6 @@
 title: "About"
 draft: false
 ---
-Hi! I am Shikhar.
-
 I am currently pursuing Master of Science in Business Analytics and Information Management at Purdue University. I  previously worked at ZS Associates, Inc as a Decision Analytics Associate for 2.5 years. 
 
 For last 3 to 4 years, I have been solving various real-world problems using data-driven solutions. During my span at ZS, I partnered with several healthcare companies to solve sales, marketing and customer-reach related challenges using data science algorithms. 
