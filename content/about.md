@@ -3,7 +3,6 @@ title: "About"
 draft: false
 ---
 Hi! I am Shikhar.
-![image](/Cover_About_Me.JPG "Shikhar Kanaskar")
 
 I am currently pursuing Master of Science in Business Analytics and Information Management at Purdue University. I  previously worked at ZS Associates, Inc as a Decision Analytics Associate for 2.5 years. 
 
