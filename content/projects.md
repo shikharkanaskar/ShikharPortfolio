@@ -14,8 +14,7 @@ Some of my personal projects in data science.
 > ### [Pharmaceutical Sales Rep call optimization using Graph Theory, Kmeans Clustering and Prediction of Prescription Conversion using XGBoost](https://medium.com/shikhars-data-science-projects/pharmaceutical-sales-rep-call-optimization-using-graph-theory-and-prediction-of-prescription-986aa5ecb914).
 ![image](/pharma_sales_optimization.jpeg "Pharmaceutical Sales Rep call optimization using Graph Theory, Kmeans Clustering and Prediction of Prescription Conversion using XGBoost")
 
-> ### [Mercedes-Benz Greener Manufacturing
-](https://github.com/shikharkanaskar/Benz-Greener-Manufacturing/blob/main/Shikhar%20Kanaskar%20-%20Mercedes-Benz%20Greener%20Manufacturing.ipynb).
+> ### [Mercedes-Benz Greener Manufacturing](https://github.com/shikharkanaskar/Benz-Greener-Manufacturing/blob/main/Shikhar%20Kanaskar%20-%20Mercedes-Benz%20Greener%20Manufacturing.ipynb).
 ![image](/Mercedes_bens_project.png "Mercedes-Benz Greener Manufacturing")
 
 
