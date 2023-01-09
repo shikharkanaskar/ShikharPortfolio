@@ -23,7 +23,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -58,18 +58,14 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
+    enabled: true # needs to be explicitly set
+    title: "Hi there \U0001F44B"
+    subtitle: "Welcome to my blog"
+    imageUrl: "/SK3.0.jpeg"
+    imageWidth: 225
+    imageHeight: 250
     imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+
 
   # home-info mode
   homeInfoParams:
@@ -81,6 +77,13 @@ params:
       url: "https://www.linkedin.com/in/shikharkanaskar/"
     - name: github
       url: "https://github.com/shikharkanaskar"
+    - name: medium
+      url: "https://medium.com/@shikharkanaskar97"
+    - name: instagram
+      url: "https://www.instagram.com/i.am.shikhar/"
+    - name: email
+      url: "mailto:shikharkanaskar109@gmail.com"
+
 
   analytics:
     google:
@@ -113,17 +116,21 @@ params:
 menu:
   main:
     - identifier: about
-      name: about
+      name: About
       url: /about/
       weight: 10
     - identifier: resume
-      name: resume
+      name: Resume
       url: /resume/
-      weight: 20
+      weight: 10
     - identifier: Projects
-      name: projects
+      name: Projects
       url: /projects/
-      weight: 20
+      weight: 10
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
