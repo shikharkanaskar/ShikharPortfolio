@@ -8,17 +8,25 @@
     <item>
       <title>About</title>
       <link>https://shikharkanaskar.com/about/</link>
-      <pubDate>Fri, 29 Jul 2022 03:08:28 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shikharkanaskar.com/about/</guid>
-      <description>Hii, This is Shikhar Kanaskar!
-A data savvy individual with 2.5+ years of experience in analytics and data science industry, specialized in data driven problem solving and client management Programming Languages and Tools: Python, SQL, MS-Excel, MS-Power Point, VBA, SAS EM, Tableau, AWS, Snowflake, Databricks Core Competencies: Machine Learning, Data Modelling, Statistics, Data Mining, Predictive Modelling, Analytics </description>
+      <description>Hii, This is Shikhar Kanaskar! A data savvy individual with 2.5+ years of experience in analytics and data science industry, specialized in data driven problem solving and client management Programming Languages and Tools: Python, SQL, MS-Excel, MS-Power Point, VBA, SAS EM, Tableau, AWS, Snowflake, Databricks Core Competencies: Machine Learning, Data Modelling, Statistics, Data Mining, Predictive Modelling, Analytics </description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://shikharkanaskar.com/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shikharkanaskar.com/posts/</guid>
+      <description> 7 things you realize on your first trek — Kedarkantha. </description>
     </item>
     
     <item>
       <title>Projects</title>
       <link>https://shikharkanaskar.com/projects/</link>
-      <pubDate>Fri, 29 Jul 2022 03:08:28 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shikharkanaskar.com/projects/</guid>
       <description> Application of SAS EM for Machine Learning: Firm Collapse Prediction. Text and Image Classification for Craigslist using GloVe and MobileNet — Transfer Learning. Pharmaceutical Sales Rep call optimization using Graph Theory, Kmeans Clustering and Prediction of Prescription Conversion using XGBoost. </description>
