@@ -16,7 +16,7 @@ minify:
 
 params:
   #env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Apurva Khatri
+  title: Shikhar Kanaskar
   description: "Shikhar Kanaskar Portfolio Website"
   keywords: [Blog, Portfolio, PaperMod]
   author: Shikhar Kanaskar
@@ -59,8 +59,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Hi there \U0001F44B"
-    subtitle: "Welcome to my blog"
+    title: "Hi there! \U0001F44B"
+    subtitle: "Welcome to my blog."
     imageUrl: "/SK3.0.jpeg"
     imageWidth: 225
     imageHeight: 250
