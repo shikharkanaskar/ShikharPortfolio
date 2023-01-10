@@ -12,7 +12,7 @@ draft: false
 > ### [Machine Learning Advanced Certification Training](https://certificates.simplicdn.net/share/2437783.pdf)
 ![image](/Simplilearn.png "Machine Learning Advanced Certification Training")
 
-> ### [Six Sigma Green Belt Certified]
+> ### [Six Sigma Green Belt Certified]()
 ![image](/SSGB.png "Six Sigma Green Belt")
 
 
