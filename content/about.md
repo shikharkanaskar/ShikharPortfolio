@@ -21,7 +21,7 @@ For last 3 to 4 years, I have been solving various real-world problems using dat
 ## EXPERIENCE 
 ### Amway, Corp. 
 #### Data Science Intern (Jul'22 - Present)
-•	Lead an end-to-end data science project for predicting likelihood of failure or growth of new Amway business franchises 
+•	Lead an end-to-end data science project for predicting likelihood of failure or growth of new Amway business franchises <br/>
 •	Developed a google cloud pipeline to process 7 bn+ records of orders, purchase, and web data; further bootstrapped around 400 LightGBM models to identify collapsing franchises with 78% F1 Score, impacting 32k business franchises
 •	Using agile methodology for project delivery, work allocation on JIRA and using Kanban board for project tracking
 
