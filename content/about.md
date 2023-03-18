@@ -2,7 +2,7 @@
 title: "About"
 draft: false
 ---
-**I am currently pursuing Master of Science in Business Analytics and Information Management at Purdue University. I am a Highly motivated individual with 3+ years of experience in data science, specialized in solving unstructured business problems using machine learning & statistics.** 
+**I am currently pursuing Master of Science in Business Analytics and Information Management at Purdue University. I am a highly motivated individual with 3+ years of experience in data science, specialized in solving unstructured business problems using machine learning & statistics.** 
 
 For last 3 to 4 years, I have been solving various real-world problems using data-driven solutions.
 
