@@ -119,10 +119,10 @@ menu:
       name: About
       url: /about/
       weight: 10
-    - identifier: resume
-      name: Resume
-      url: /resume/
-      weight: 10
+#     - identifier: resume
+#       name: Resume
+#       url: /resume/
+#       weight: 10
     - identifier: Projects
       name: Projects
       url: /projects/
