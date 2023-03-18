@@ -32,11 +32,11 @@ For last 3 to 4 years, I have been solving various real-world problems using dat
 
 
 ### EDUCATION 
-##### Purdue University, Krannert School of Management
+**Purdue University, Krannert School of Management** \
 *Master of Science in Business Analytics and Information Management - STEM* \
 •	Relevant Courses: Statistics, Data Structures, Data Mining, Database Management Systems, Data Visualization, Cloud Computing, Natural Language Processing, IT Project Management, Time Series Modeling
 
-##### Vellore Institute of Technology (VIT)
+**Vellore Institute of Technology (VIT)**\
 *Bachelor of Engineering / Technology* \
 •	Relevant Courses: Object Oriented Programming, Vector Calculus, Application of Differential Equation
 
