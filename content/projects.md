@@ -12,7 +12,10 @@ Some of my personal projects in data science.
 > ### [Forecasting Stock Prices: using ARIMA, Fourier Transformation and Deep Learning](https://medium.com/shikhars-data-science-projects/predicting-stock-prices-using-arima-fourier-transformation-and-deep-learning-e5fb4f693c85)
 ![image](/deeplearning.jpg "Time Series Forecasting: Using ARIMA, Fourier and Deep Learning")
 
-> ### [Application of SAS EM for Machine Learning: Firm Collapse Prediction](https://medium.com/shikhars-data-science-projects/text-and-image-classification-for-craigslist-using-glove-and-mobilenet-transfer-learning-9a8de59d9a25)
+> ### [Go-To-Market Strategy for a Banking Firm to expand their Mortgage Loan Operations: Using clustering algorithms to identify target customers](https://medium.com/shikhars-data-science-projects/predicting-stock-prices-using-arima-fourier-transformation-and-deep-learning-e5fb4f693c85)
+![image](/LOANMORTGAGE.jpg "GTM: LOAN MORTGAGE")
+
+> ### [Application of SAS EM for Machine Learning: Firm Collapse Prediction](https://medium.com/shikhars-data-science-projects/application-of-sas-em-to-solve-data-science-problem-of-firm-collapse-prediction-8a80efaa345d)
 ![image](/application_of_sas_em_image.jpeg "Application of SAS EM for Machine Learning: Firm Collapse Prediction")
 
 > ### [Pharmaceutical Sales Rep call optimization using Graph Theory, Kmeans Clustering and Prediction of Prescription Conversion using XGBoost](https://medium.com/shikhars-data-science-projects/pharmaceutical-sales-rep-call-optimization-using-graph-theory-and-prediction-of-prescription-986aa5ecb914)
