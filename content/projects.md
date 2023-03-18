@@ -12,7 +12,7 @@ Some of my personal projects in data science.
 > ### [Forecasting Stock Prices: using ARIMA, Fourier Transformation and Deep Learning](https://medium.com/shikhars-data-science-projects/predicting-stock-prices-using-arima-fourier-transformation-and-deep-learning-e5fb4f693c85)
 ![image](/deeplearning.jpg "Time Series Forecasting: Using ARIMA, Fourier and Deep Learning")
 
-> ### [Go-To-Market Strategy for a Banking Firm to expand their Mortgage Loan Operations: Using clustering algorithms to identify target customers](https://medium.com/shikhars-data-science-projects/predicting-stock-prices-using-arima-fourier-transformation-and-deep-learning-e5fb4f693c85)
+> ### [Go-To-Market Strategy for a Banking Firm to expand their Mortgage Loan Operations: Using clustering algorithms to identify target customers](https://medium.com/shikhars-data-science-projects/go-to-market-strategy-for-a-banking-firm-to-expand-their-mortgage-loan-operations-using-clustering-d633992b2cb)
 ![image](/LOANMORTGAGE.JPG "GTM: LOAN MORTGAGE")
 
 > ### [Application of SAS EM for Machine Learning: Firm Collapse Prediction](https://medium.com/shikhars-data-science-projects/application-of-sas-em-to-solve-data-science-problem-of-firm-collapse-prediction-8a80efaa345d)
