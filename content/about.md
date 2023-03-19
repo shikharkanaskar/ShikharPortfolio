@@ -2,7 +2,7 @@
 title: "About"
 draft: false
 ---
-![image](/Cover_About_Me.JPG "Shikhar Kanaskar")
+![image](/Cover_About_Me.png "Shikhar Kanaskar")
 *I am currently pursuing Master of Science in Business Analytics and Information Management at Purdue University. I am a highly motivated individual with 3+ years of experience in data science, specialized in solving unstructured business problems using machine learning & statistics.* 
 
 ### SKILLS
