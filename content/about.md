@@ -3,24 +3,24 @@ title: "About"
 draft: false
 ---
 ![image](/Cover_About_Me.png "Shikhar Kanaskar")
-*I am currently pursuing Master of Science in Business Analytics and Information Management at Purdue University. I am a highly motivated individual with 3+ years of experience in data science, specialized in solving unstructured business problems using machine learning & statistics.* 
+*Hi, I'm Shikhar. I am currently pursuing Master of Science in Business Analytics and Information Management at Purdue University. I am a highly motivated individual with 3+ years of experience in data science, specialized in solving unstructured business problems using machine learning & statistics.* 
 
 ### SKILLS
 **•	Programming:** Python (Pandas, Spark, Numpy, TensorFlow, Keras, pytorch, Scikit-learn), SQL, SAS Enterprise Miner, R, C++ \
 **•	Certifications:** AWS Cloud Practitioner, Tableau Desktop Specialist, Six Sigma Green Belt, AI / ML Specialist (Simplilearn) \
 **•	Machine Learning & Analytics:** Linear & Logistic Regression, Decision Tree, Random Forest, SVM, K-Means, Gradient Boosting, CNN, ANN, LSTM, Time Series Forecasting (ARIMA), Predictive Modeling, MS-Excel \
 **•	Databases / Big Data:** AWS Redshift, Databricks, Snowflake, Google Cloud Platform and Azure \
-**•	Organizational Skills:** Project management, Analytical Problem Solving, Creative, Written and Communication Skills \
+**•	Organizational Skills:** Project management, Analytical Problem Solving, Creative, Written and Communication Skills 
 
 
 ### EXPERIENCE 
-**Amway, Corp.**
+**Amway, Corp.** \
 *Data Science Intern (Jul'22 - Present)* \
 •	Lead an end-to-end data science project for predicting likelihood of failure or growth of new Amway business franchises \
 •	Developed a google cloud pipeline to process 7 bn+ records of orders, purchase, and web data; further bootstrapped around 400 LightGBM models to identify collapsing franchises with 78% F1 Score, impacting 32k business franchises \
 •	Using agile methodology for project delivery, work allocation on JIRA and using Kanban board for project tracking 
 
-**ZS Associates, Inc.**
+**ZS Associates, Inc.** \
 *Associate (Jan'20-Jun'22)* \
 •	Partnered with top US healthcare companies and delivered 12+ data science projects for improving sales and marketing \
 •	Created Customer Centric Marketing strategy using K-means and XGBoost for a multi-billion-dollar cancer drug, leading to 20% increased ROI for the client’s sales force \
