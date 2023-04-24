@@ -62,7 +62,7 @@ params:
     title: "Hi there! I am Shikhar. \U0001F44B"
     subtitle: "Welcome to my blog."
     imageUrl: "/SK3.0.jpeg"
-    imageWidth: 250
+    imageWidth: 265
     imageHeight: 250
     imageTitle: my image
 
