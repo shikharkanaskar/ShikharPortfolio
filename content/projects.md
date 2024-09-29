@@ -6,7 +6,7 @@ draft: false
 Some of my personal projects in data science.
 
 > ### [Understanding LLM Agents: A Practical Guide to Building AI Solutions for Contact Center Optimization](https://medium.com/shikhars-data-science-projects/understanding-llm-agents-a-practical-guide-to-building-ai-solutions-for-contact-center-7869c4b0da1a)
-![image](imageLLMAgent.jpeg "Understanding LLM Agents: A Practical Guide to Building AI Solutions for Contact Center Optimization")
+![image](static/imageLLMAgent.jpeg "Understanding LLM Agents: A Practical Guide to Building AI Solutions for Contact Center Optimization")
 
 > ### [Text and Image Classification for Craigslist using GloVe and MobileNet — Transfer Learning](https://medium.com/shikhars-data-science-projects/text-and-image-classification-for-craigslist-using-glove-and-mobilenet-transfer-learning-9a8de59d9a25)
 ![image](/text_image_classification.jpeg "Text and Image Classification for Craigslist using GloVe and MobileNet — Transfer Learning")
