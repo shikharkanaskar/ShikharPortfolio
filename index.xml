@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shikharkanaskar.com/about/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; width = &#34;350px&#34; height = &#34;250px&#34; src=&#34;https://shikharkanaskar.com/Cover_About_Me.png&#34; alt=&#34;image&#34;  title=&#34;Shikhar Kanaskar&#34;  /&gt;
+&lt;/p&gt;
 &lt;h4 id=&#34;about-me&#34;&gt;🙎🏻‍♂️About Me&lt;/h4&gt;
 &lt;pre&gt;&lt;code&gt;Hi, I&#39;m Shikhar. I hold a Master of Science in Business Analytics and Information Management from Purdue University and currently work as a Senior Data Scientist at Alliant Credit Union in Chicago, IL. I am a highly motivated individual with over 4 years of experience in data science, now evolving into an AI engineer, specializing in solving complex business problems using machine learning and statistics.
 
