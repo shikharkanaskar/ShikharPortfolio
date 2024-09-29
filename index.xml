@@ -14,46 +14,8 @@
       <guid>https://shikharkanaskar.com/about/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; width = &#34;350px&#34; height = &#34;250px&#34; src=&#34;https://shikharkanaskar.com/Cover_About_Me.png&#34; alt=&#34;image&#34;  title=&#34;Shikhar Kanaskar&#34;  /&gt;
 &lt;/p&gt;
-&lt;h4 id=&#34;about-me&#34;&gt;🙎🏻‍♂️About Me&lt;/h4&gt;
-&lt;pre&gt;&lt;code&gt;Hi, I&#39;m Shikhar. I hold a Master of Science in Business Analytics and Information Management from Purdue University and currently work as a Senior Data Scientist at Alliant Credit Union in Chicago, IL. I am a highly motivated individual with over 4 years of experience in data science, now evolving into an AI engineer, specializing in solving complex business problems using machine learning and statistics.
-
-As an AI enthusiast, I build multiple AI solutions to tackle real-world challenges with quick turnarounds, resulting in increased revenues and optimized workflows. I engage daily with stakeholders and business owners to understand their needs, create innovative solutions, implement them end-to-end, and provide ongoing support. My strong communication skills and ability to collaborate effectively with cross-functional teams ensure the successful delivery of products and solutions. I am continually growing in my journey as a data scientist, expanding my expertise to encompass AI engineering.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;-skills&#34;&gt;📌 Skills&lt;/h3&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Category&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Programming&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Python (Pandas, Spark, Numpy, TensorFlow, Keras, PyTorch, Scikit-learn), SQL, SAS Enterprise Miner, R, C++&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Certifications&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AWS Cloud Practitioner, Tableau Desktop Specialist, Six Sigma Green Belt, AI / ML Specialist (Simplilearn)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Machine Learning &amp;amp; Analytics&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AI, Large Language Models (LLM), Azure OpenAI GPT, Regression, Decision Trees, Random Forest, SVM, K-Means, CNN, ANN, LSTM, Time Series (ARIMA), Predictive Modeling, Deep Learning, Data Visualization, ETL&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Databases / Big Data&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Azure, AWS Redshift, Databricks, Snowflake, Google Cloud Platform (GCP), NoSQL&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Organizational Skills&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Project management, Analytical Problem Solving, Creative Thinking, Communication, Cross-functional Collaboration&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;-professional-experience&#34;&gt;🏆 Professional Experience&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Alliant Credit Union&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Senior Data Scientist&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;June 2023 – Present | Chicago, IL&lt;/em&gt;&lt;/p&gt;</description>
+&lt;h3 id=&#34;-about-me&#34;&gt;🙎🏻‍♂️ About Me&lt;/h3&gt;
+&lt;p&gt;Hi, I&amp;rsquo;m Shikhar. I hold a Master of Science in Business Analytics and Information Management from Purdue University and currently work as a Senior Data Scientist at Alliant Credit Union in Chicago, IL. I am a highly motivated individual with over 4 years of experience in data science, now evolving into an AI engineer, specializing in solving complex business problems using machine learning and statistics.&lt;/p&gt;</description>
     </item>
     
     <item>
