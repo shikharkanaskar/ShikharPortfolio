@@ -4,15 +4,17 @@
     <title>Shikhar Kanaskar</title>
     <link>https://shikharkanaskar.com/</link>
     <description>Recent content on Shikhar Kanaskar</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://shikharkanaskar.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://shikharkanaskar.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://shikharkanaskar.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shikharkanaskar.com/about/</guid>
-      <description>Hi, I&amp;rsquo;m Shikhar. I am currently pursuing Master of Science in Business Analytics and Information Management at Purdue University. I am a highly motivated individual with 3+ years of experience in data science, specialized in solving unstructured business problems using machine learning &amp;amp; statistics.
-SKILLS •	Programming: Python (Pandas, Spark, Numpy, TensorFlow, Keras, pytorch, Scikit-learn), SQL, SAS Enterprise Miner, R, C++ •	Certifications: AWS Cloud Practitioner, Tableau Desktop Specialist, Six Sigma Green Belt, AI / ML Specialist (Simplilearn) •	Machine Learning &amp;amp; Analytics: Linear &amp;amp; Logistic Regression, Decision Tree, Random Forest, SVM, K-Means, Gradient Boosting, CNN, ANN, LSTM, Time Series Forecasting (ARIMA), Predictive Modeling, MS-Excel •	Databases / Big Data: AWS Redshift, Databricks, Snowflake, Google Cloud Platform and Azure •	Organizational Skills: Project management, Analytical Problem Solving, Creative, Written and Communication Skills</description>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; width = &#34;350px&#34; height = &#34;250px&#34; src=&#34;https://shikharkanaskar.com/Cover_About_Me.png&#34; alt=&#34;image&#34;  title=&#34;Shikhar Kanaskar&#34;  /&gt;
+
+&lt;em&gt;Hi, I&amp;rsquo;m Shikhar. I hold a Master of Science in Business Analytics and Information Management from Purdue University and currently work as a Senior Data Scientist at Alliant Credit Union in Chicago, IL. I am a highly motivated individual with over 4 years of experience in data science, now evolving into an AI engineer, specializing in solving complex business problems using machine learning and statistics.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -21,7 +23,26 @@ SKILLS •	Programming: Python (Pandas, Spark, Numpy, TensorFlow, Keras, pytorch
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shikharkanaskar.com/certifications/</guid>
-      <description> AWS Certified Cloud Practitioner Tableau Desktop Specialist Machine Learning Advanced Certification Training Six Sigma Green Belt Certified </description>
+      <description>&lt;blockquote&gt;
+&lt;h3 id=&#34;aws-certified-cloud-practitionerhttpswwwcredlycombadgesac2a1988-27fe-45be-b2bd-de98ed02cb9flinked_in_profile&#34;&gt;&lt;a href=&#34;https://www.credly.com/badges/ac2a1988-27fe-45be-b2bd-de98ed02cb9f/linked_in_profile&#34;&gt;AWS Certified Cloud Practitioner&lt;/a&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; width = &#34;350px&#34; height = &#34;250px&#34; src=&#34;https://shikharkanaskar.com/AWS_CP.png&#34; alt=&#34;image&#34;  title=&#34;AWS Cloud Practitioner&#34;  /&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;tableau-desktop-specialisthttpswwwcredlycombadges28e4a27e-995e-473e-97f3-03ee8ee7d645linked_in_profile&#34;&gt;&lt;a href=&#34;https://www.credly.com/badges/28e4a27e-995e-473e-97f3-03ee8ee7d645/linked_in_profile&#34;&gt;Tableau Desktop Specialist&lt;/a&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; width = &#34;350px&#34; height = &#34;250px&#34; src=&#34;https://shikharkanaskar.com/Tableau.png&#34; alt=&#34;image&#34;  title=&#34;Tableau Desktop Specialist&#34;  /&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;machine-learning-advanced-certification-traininghttpscertificatessimplicdnnetshare2437783pdf&#34;&gt;&lt;a href=&#34;https://certificates.simplicdn.net/share/2437783.pdf&#34;&gt;Machine Learning Advanced Certification Training&lt;/a&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; width = &#34;350px&#34; height = &#34;250px&#34; src=&#34;https://shikharkanaskar.com/Simplilearn.png&#34; alt=&#34;image&#34;  title=&#34;Machine Learning Advanced Certification Training&#34;  /&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;six-sigma-green-belt-certified&#34;&gt;&lt;a href=&#34;&#34;&gt;Six Sigma Green Belt Certified&lt;/a&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; width = &#34;350px&#34; height = &#34;250px&#34; src=&#34;https://shikharkanaskar.com/SSGB.png&#34; alt=&#34;image&#34;  title=&#34;Six Sigma Green Belt&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -30,8 +51,12 @@ SKILLS •	Programming: Python (Pandas, Spark, Numpy, TensorFlow, Keras, pytorch
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shikharkanaskar.com/posts/</guid>
-      <description>Here is a collection of articles around my personal life and adventures.
-7 things you realize on your first trek — Kedarkantha. </description>
+      <description>&lt;p&gt;Here is a collection of articles around my personal life and adventures.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&#34;7-things-you-realize-on-your-first-trek--kedarkanthahttpsmediumcomlife-random7-things-you-realize-on-your-first-trek-kedarkantha-trek-27ed61e6d7cc&#34;&gt;&lt;a href=&#34;https://medium.com/life-random/7-things-you-realize-on-your-first-trek-kedarkantha-trek-27ed61e6d7cc&#34;&gt;7 things you realize on your first trek — Kedarkantha&lt;/a&gt;.&lt;/h2&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; width = &#34;350px&#34; height = &#34;250px&#34; src=&#34;https://shikharkanaskar.com/kedarkantha.jpeg&#34; alt=&#34;image&#34;  title=&#34;7 things you realize on your first trek — Kedarkantha&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,8 +65,22 @@ SKILLS •	Programming: Python (Pandas, Spark, Numpy, TensorFlow, Keras, pytorch
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shikharkanaskar.com/projects/</guid>
-      <description>Some of my personal projects in data science.
-Text and Image Classification for Craigslist using GloVe and MobileNet — Transfer Learning Forecasting Stock Prices: using ARIMA, Fourier Transformation and Deep Learning Go-To-Market Strategy for a Banking Firm to expand their Mortgage Loan Operations: Using clustering algorithms to identify target customers Application of SAS EM for Machine Learning: Firm Collapse Prediction Pharmaceutical Sales Rep call optimization using Graph Theory, Kmeans Clustering and Prediction of Prescription Conversion using XGBoost Mercedes-Benz Greener Manufacturing Loan Risk Prediction </description>
+      <description>&lt;p&gt;Some of my personal projects in data science.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;text-and-image-classification-for-craigslist-using-glove-and-mobilenet--transfer-learninghttpsmediumcomshikhars-data-science-projectstext-and-image-classification-for-craigslist-using-glove-and-mobilenet-transfer-learning-9a8de59d9a25&#34;&gt;&lt;a href=&#34;https://medium.com/shikhars-data-science-projects/text-and-image-classification-for-craigslist-using-glove-and-mobilenet-transfer-learning-9a8de59d9a25&#34;&gt;Text and Image Classification for Craigslist using GloVe and MobileNet — Transfer Learning&lt;/a&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; width = &#34;350px&#34; height = &#34;250px&#34; src=&#34;https://shikharkanaskar.com/text_image_classification.jpeg&#34; alt=&#34;image&#34;  title=&#34;Text and Image Classification for Craigslist using GloVe and MobileNet — Transfer Learning&#34;  /&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;forecasting-stock-prices-using-arima-fourier-transformation-and-deep-learninghttpsmediumcomshikhars-data-science-projectspredicting-stock-prices-using-arima-fourier-transformation-and-deep-learning-e5fb4f693c85&#34;&gt;&lt;a href=&#34;https://medium.com/shikhars-data-science-projects/predicting-stock-prices-using-arima-fourier-transformation-and-deep-learning-e5fb4f693c85&#34;&gt;Forecasting Stock Prices: using ARIMA, Fourier Transformation and Deep Learning&lt;/a&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; width = &#34;350px&#34; height = &#34;250px&#34; src=&#34;https://shikharkanaskar.com/deeplearning.jpg&#34; alt=&#34;image&#34;  title=&#34;Time Series Forecasting: Using ARIMA, Fourier and Deep Learning&#34;  /&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;go-to-market-strategy-for-a-banking-firm-to-expand-their-mortgage-loan-operations-using-clustering-algorithms-to-identify-target-customershttpsmediumcomshikhars-data-science-projectsgo-to-market-strategy-for-a-banking-firm-to-expand-their-mortgage-loan-operations-using-clustering-d633992b2cb&#34;&gt;&lt;a href=&#34;https://medium.com/shikhars-data-science-projects/go-to-market-strategy-for-a-banking-firm-to-expand-their-mortgage-loan-operations-using-clustering-d633992b2cb&#34;&gt;Go-To-Market Strategy for a Banking Firm to expand their Mortgage Loan Operations: Using clustering algorithms to identify target customers&lt;/a&gt;&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; width = &#34;350px&#34; height = &#34;250px&#34; src=&#34;https://shikharkanaskar.com/LOANMORTGAGE.JPG&#34; alt=&#34;image&#34;  title=&#34;GTM: LOAN MORTGAGE&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,7 +89,404 @@ Text and Image Classification for Craigslist using GloVe and MobileNet — Trans
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://shikharkanaskar.com/resume/</guid>
-      <description> Previous Next &amp;nbsp; &amp;nbsp; Page: / Previous Next &amp;nbsp; &amp;nbsp; Page: / </description>
+      <description>&lt;p&gt;
+&lt;script type=&#34;text/javascript&#34; src= &#39;/js/pdf-js/build/pdf.js&#39; defer crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.min.js&#34; integrity=&#34;sha512-i+UmpoqoJqHkpXQ3mQfaIF8UZ2RAGoyqJvMzAKTadhBVhRk883EHluxdPsMf7c5/43D5tVpwIE8KLE1kQa0uCg==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js&#34; integrity=&#34;sha512-NuVK4+sDE809oDhbdAABRO1nTe80t56vXda8dg1UQ+RcQ8x7WakwTzKE7LOosoNCKi7EH7FXo7mritFNWpZiLQ==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;style&gt;
+#the-canvas {
+  border: 1px solid black;
+  direction: ltr;
+  width: 100%;
+  height: auto;
+  display: none;
+}
+
+#paginator {
+  display: none;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#loadingWrapper {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 350px;
+}
+
+#loading {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border: 3px solid #d2d0d0;;
+  border-radius: 50%;
+  border-top-color: #383838;
+  animation: spin 1s ease-in-out infinite;
+  -webkit-animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
+&lt;/style&gt;
+
+&lt;div id=&#34;paginator&#34;&gt;
+    &lt;button id=&#34;prev&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;next&#34;&gt;Next&lt;/button&gt;
+    &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;Page: &lt;span id=&#34;page_num&#34;&gt;&lt;/span&gt; / &lt;span id=&#34;page_count&#34;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;div id=&#34;embed-pdf-container&#34;&gt;
+    &lt;div id=&#34;loadingWrapper&#34;&gt;
+      &lt;div id=&#34;loading&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;canvas id=&#34;the-canvas&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+window.onload = function() {
+
+
+var url = &#34;https:\/\/shikharkanaskar.com\/&#34; + &#39;.\/Shikhar_Kanaskar_Resume.pdf&#39;;
+
+var hidePaginator = &#34;&#34; === &#34;true&#34;;
+var hideLoader = &#34;&#34; === &#34;true&#34;;
+var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+
+var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+
+pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/shikharkanaskar.com\/&#34; + &#39;/js/pdf-js/build/pdf.worker.js&#39;;
+
+
+
+var pdfDoc = null,
+    pageNum = selectedPageNum,
+    pageRendering = false,
+    pageNumPending = null,
+    scale = 3,
+    canvas = document.getElementById(&#39;the-canvas&#39;),
+    ctx = canvas.getContext(&#39;2d&#39;),
+    paginator = document.getElementById(&#34;paginator&#34;),
+    loadingWrapper = document.getElementById(&#39;loadingWrapper&#39;);
+
+
+
+showPaginator();
+showLoader();
+
+
+
+function renderPage(num) {
+  pageRendering = true;
+  
+  pdfDoc.getPage(num).then(function(page) {
+    var viewport = page.getViewport({scale: scale});
+    canvas.height = viewport.height;
+    canvas.width = viewport.width;
+
+    
+    var renderContext = {
+      canvasContext: ctx,
+      viewport: viewport
+    };
+    var renderTask = page.render(renderContext);
+
+    
+    renderTask.promise.then(function() {
+      pageRendering = false;
+      showContent();
+
+      if (pageNumPending !== null) {
+        
+        renderPage(pageNumPending);
+        pageNumPending = null;
+      }
+    });
+  });
+
+  
+  document.getElementById(&#39;page_num&#39;).textContent = num;
+}
+
+
+
+function showContent() {
+  loadingWrapper.style.display = &#39;none&#39;;
+  canvas.style.display = &#39;block&#39;;
+}
+
+
+
+function showLoader() {
+  if(hideLoader) return
+  loadingWrapper.style.display = &#39;flex&#39;;
+  canvas.style.display = &#39;none&#39;;
+}
+
+
+
+function showPaginator() {
+  if(hidePaginator) return
+  paginator.style.display = &#39;block&#39;;
+}
+
+
+
+function queueRenderPage(num) {
+  if (pageRendering) {
+    pageNumPending = num;
+  } else {
+    renderPage(num);
+  }
+}
+
+
+
+function onPrevPage() {
+  if (pageNum &lt;= 1) {
+    return;
+  }
+  pageNum--;
+  queueRenderPage(pageNum);
+}
+document.getElementById(&#39;prev&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+
+
+function onNextPage() {
+  if (pageNum &gt;= pdfDoc.numPages) {
+    return;
+  }
+  pageNum++;
+  queueRenderPage(pageNum);
+}
+document.getElementById(&#39;next&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+
+
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+  pdfDoc = pdfDoc_;
+  var numPages = pdfDoc.numPages;
+  document.getElementById(&#39;page_count&#39;).textContent = numPages;
+
+  
+  if(pageNum &gt; numPages) {
+    pageNum = numPages
+  }
+
+  
+  renderPage(pageNum);
+});
+}
+
+&lt;/script&gt;
+
+
+&lt;script type=&#34;text/javascript&#34; src= &#39;/js/pdf-js/build/pdf.js&#39; defer crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.min.js&#34; integrity=&#34;sha512-i+UmpoqoJqHkpXQ3mQfaIF8UZ2RAGoyqJvMzAKTadhBVhRk883EHluxdPsMf7c5/43D5tVpwIE8KLE1kQa0uCg==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js&#34; integrity=&#34;sha512-NuVK4+sDE809oDhbdAABRO1nTe80t56vXda8dg1UQ+RcQ8x7WakwTzKE7LOosoNCKi7EH7FXo7mritFNWpZiLQ==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;style&gt;
+#the-canvas {
+  border: 1px solid black;
+  direction: ltr;
+  width: 100%;
+  height: auto;
+  display: none;
+}
+
+#paginator {
+  display: none;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#loadingWrapper {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 350px;
+}
+
+#loading {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border: 3px solid #d2d0d0;;
+  border-radius: 50%;
+  border-top-color: #383838;
+  animation: spin 1s ease-in-out infinite;
+  -webkit-animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
+&lt;/style&gt;
+
+&lt;div id=&#34;paginator&#34;&gt;
+    &lt;button id=&#34;prev&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;next&#34;&gt;Next&lt;/button&gt;
+    &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;Page: &lt;span id=&#34;page_num&#34;&gt;&lt;/span&gt; / &lt;span id=&#34;page_count&#34;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;div id=&#34;embed-pdf-container&#34;&gt;
+    &lt;div id=&#34;loadingWrapper&#34;&gt;
+      &lt;div id=&#34;loading&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;canvas id=&#34;the-canvas&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+window.onload = function() {
+
+
+var url = &#34;https:\/\/shikharkanaskar.com\/&#34; + &#39;.\/Shikhar_Kanaskar_Resume.pdf&#39;;
+
+var hidePaginator = &#34;true&#34; === &#34;true&#34;;
+var hideLoader = &#34;&#34; === &#34;true&#34;;
+var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+
+var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+
+pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/shikharkanaskar.com\/&#34; + &#39;/js/pdf-js/build/pdf.worker.js&#39;;
+
+
+
+var pdfDoc = null,
+    pageNum = selectedPageNum,
+    pageRendering = false,
+    pageNumPending = null,
+    scale = 3,
+    canvas = document.getElementById(&#39;the-canvas&#39;),
+    ctx = canvas.getContext(&#39;2d&#39;),
+    paginator = document.getElementById(&#34;paginator&#34;),
+    loadingWrapper = document.getElementById(&#39;loadingWrapper&#39;);
+
+
+
+showPaginator();
+showLoader();
+
+
+
+function renderPage(num) {
+  pageRendering = true;
+  
+  pdfDoc.getPage(num).then(function(page) {
+    var viewport = page.getViewport({scale: scale});
+    canvas.height = viewport.height;
+    canvas.width = viewport.width;
+
+    
+    var renderContext = {
+      canvasContext: ctx,
+      viewport: viewport
+    };
+    var renderTask = page.render(renderContext);
+
+    
+    renderTask.promise.then(function() {
+      pageRendering = false;
+      showContent();
+
+      if (pageNumPending !== null) {
+        
+        renderPage(pageNumPending);
+        pageNumPending = null;
+      }
+    });
+  });
+
+  
+  document.getElementById(&#39;page_num&#39;).textContent = num;
+}
+
+
+
+function showContent() {
+  loadingWrapper.style.display = &#39;none&#39;;
+  canvas.style.display = &#39;block&#39;;
+}
+
+
+
+function showLoader() {
+  if(hideLoader) return
+  loadingWrapper.style.display = &#39;flex&#39;;
+  canvas.style.display = &#39;none&#39;;
+}
+
+
+
+function showPaginator() {
+  if(hidePaginator) return
+  paginator.style.display = &#39;block&#39;;
+}
+
+
+
+function queueRenderPage(num) {
+  if (pageRendering) {
+    pageNumPending = num;
+  } else {
+    renderPage(num);
+  }
+}
+
+
+
+function onPrevPage() {
+  if (pageNum &lt;= 1) {
+    return;
+  }
+  pageNum--;
+  queueRenderPage(pageNum);
+}
+document.getElementById(&#39;prev&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+
+
+function onNextPage() {
+  if (pageNum &gt;= pdfDoc.numPages) {
+    return;
+  }
+  pageNum++;
+  queueRenderPage(pageNum);
+}
+document.getElementById(&#39;next&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+
+
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+  pdfDoc = pdfDoc_;
+  var numPages = pdfDoc.numPages;
+  document.getElementById(&#39;page_count&#39;).textContent = numPages;
+
+  
+  if(pageNum &gt; numPages) {
+    pageNum = numPages
+  }
+
+  
+  renderPage(pageNum);
+});
+}
+
+&lt;/script&gt;
+&lt;/p&gt;</description>
     </item>
     
   </channel>
